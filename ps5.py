@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# Problem Set 5: Modeling Temperature Change
-# Name: Shirin Amouei
-# Collaborators: None
-# Time: 10:00
-# Late Days Used: 1
-
 
 import numpy as np
 import matplotlib.pyplot as plt
